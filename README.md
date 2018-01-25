@@ -48,10 +48,7 @@ exemplo.children
 <!-- pega o tamanho do elemento -->
 exemplo.length
 <!-- alterar a img de background -->
-exemplo.style.backgroundImage = url('');
-exemplo.
-exemplo.
-exemplo.
+exemplo.style.backgroundImage = url('img/img.jpg');
 <!-- pega o scroll no eixo y -->
 window.pageYOffset;
 <!-- pega o scroll no eixo x -->
