@@ -77,4 +77,9 @@ exemplo.addEventListener('click', function(){});
 
 <!-- pega o eventos de scroll -->
 window.addEventListner('scroll' function(){}, false)
+
+<!-- tratar form -->
+<form name="simulador" onchange="checkInput()">
+
+d.forms['simulador']['name'].value
 ```
