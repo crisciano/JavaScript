@@ -80,6 +80,7 @@ window.addEventListner('scroll' function(){}, false)
 
 <!-- tratar form -->
 <form name="simulador" onchange="checkInput()">
+<input type="text" name="name" placeholder="Nome Completo" required>
 
 d.forms['simulador']['name'].value
 ```
